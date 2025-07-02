@@ -24,6 +24,6 @@ public class Sum_num_in_string {
         }
 
         System.out.println("Sum: " + sum);
-        System.out.println("hii");
+
     }
 }
